@@ -1,6 +1,3 @@
-<h1 align="left">Olá 👋!<br>Sou um desenvolvedor front-end apaixonado pelo que faço, com foco em criar interfaces dinâmicas e intuitivas usando React. Cada projeto é uma oportunidade de aprender algo novo, experimentar diferentes abordagens e aprimorar minhas habilidades. Amo transformar ideias em experiências digitais, garantindo que cada linha de código contribua para um produto final de alta qualidade. Estou sempre em busca de novas tecnologias, ferramentas e melhores práticas para me manter atualizado e elevar meu trabalho a um novo patamar. Para mim, o desenvolvimento front-end não é apenas um trabalho, mas uma paixão contínua por criar e inovar.</h1>
-
-###
 
 <br clear="both">
 
